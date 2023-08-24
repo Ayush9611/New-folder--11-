@@ -3748,9 +3748,9 @@ input, select, textarea {
 				margin: 3rem 0 0 0;
 			}
 
-			#wrapper > section {
+			/* #wrapper > section {
 				margin: 0;
-			}
+			} */
 
 				#wrapper > section > header {
 					padding: 3rem 2rem;
