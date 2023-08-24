@@ -76,13 +76,7 @@ input, select, textarea {
 		gap: 1000px;
 		animation: fadeIn 1.8s;
 	}
-
-	.sticky {
-		position: fixed;
-		top: 0;
-		width: 100%;
-	  }
-
+	
 	.nav .flexnav{
 		display: flex;
 		justify-content: flex-start;
